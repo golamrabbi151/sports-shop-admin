@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600"><defs><radialGradient id="bg" cx=".5" cy=".4" r=".8"><stop offset="0" stop-color="#1E293B"/><stop offset="1" stop-color="#0B1220"/></radialGradient></defs>
+<rect width="600" height="600" fill="url(#bg)"/><circle cx="300" cy="290" r="210" fill="#7C3AED" opacity=".18"/>
+<ellipse cx="300" cy="530" rx="190" ry="18" fill="#0F172A" opacity="0.5"/>
+<g transform="scale(.86) translate(49 40)">
+      <path d="M100 340 Q105 270 170 255 L260 230 Q290 215 320 240 L360 280 Q450 280 495 320 Q515 345 495 360 L120 362 Q95 360 100 340 Z" fill="#7C3AED"/>
+      <path d="M170 255 L260 230 Q290 215 320 240 L300 262 Q240 245 185 275 Z" fill="#4C1D95" opacity=".35"/>
+      <path d="M95 352 L505 352 Q512 385 480 392 L125 392 Q92 390 95 352 Z" fill="#fff"/>
+      <path d="M95 378 L505 370" stroke="#4C1D95" stroke-width="6" opacity=".4"/>
+      <path d="M180 320 Q290 280 420 318" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" opacity=".9"/>
+      <line x1="255" y1="232" x2="277" y2="262" stroke="#fff" stroke-width="5" stroke-linecap="round"/><line x1="280" y1="235" x2="302" y2="264" stroke="#fff" stroke-width="5" stroke-linecap="round"/><line x1="305" y1="238" x2="327" y2="266" stroke="#fff" stroke-width="5" stroke-linecap="round"/></g></svg>
